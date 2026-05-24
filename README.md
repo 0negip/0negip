@@ -92,15 +92,3 @@ The project focuses on low-level concurrency, process coordination, synchronizat
 
 Performance evaluation project focused on the simulation and analysis of a shared-bus parallel computing architecture.  
 The project is related to system modeling, performance analysis, and simulation-based evaluation.
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=0negip&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=0negip&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0negip&layout=compact&hide_border=false&cache_seconds=60)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=0negip&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
